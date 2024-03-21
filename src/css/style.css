@@ -20,5 +20,6 @@ main .personagem .imagem {
 .conteudo {
     background-color: orange;
     position: absolute;
-    
+    top: 0;
+    left: 120px;
 }
