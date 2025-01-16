@@ -1,4 +1,4 @@
-#  projeto-one-piece
+# 🌊 projeto-one-piece
 
 ### About the Project
 This project is a website inspired by the anime One Piece, one of the most iconic and influential works of Japanese pop culture. The website was created as a way to pay homage to the rich and exciting universe of the anime, bringing thematic elements that capture the essence of the Straw Hats' journey. Every detail was designed to offer fans an experience that reflects adventure, companionship and exploration, central values ​​of the story.
@@ -8,7 +8,7 @@ The website was developed using HTML to structure the content; CSS, to style and
 Feel free to explore the code and share feedback! 🍖🏴‍☠️
 
 ### Web site Layout
-
+<img src="https://i.ibb.co/SsN2FkD/Captura-de-tela-2025-01-16-073050.png" alt="Captura-de-tela-2025-01-16-073050" border="0">
 
 ### 🚀 Technologies Used 
 
