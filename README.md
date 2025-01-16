@@ -8,7 +8,7 @@ The website was developed using HTML to structure the content; CSS, to style and
 Feel free to explore the code and share feedback! 🍖🏴‍☠️
 
 ### Web site Layout
-<img src="https://i.ibb.co/SsN2FkD/Captura-de-tela-2025-01-16-073050.png" alt="Captura-de-tela-2025-01-16-073050" border="0">
+
 
 ### 🚀 Technologies Used 
 
