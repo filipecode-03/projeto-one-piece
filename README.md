@@ -15,3 +15,7 @@ Feel free to explore the code and share feedback! 🍖🏴‍☠️
 - HTML
 - CSS
 - JavaScript
+
+<hr>
+
+<em>Desenvolvido por <a href="https://youtube.com/@devemdobro?si=5s6RePLNllT5ue4Z">devemdobro</a></em>
